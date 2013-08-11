@@ -272,6 +272,10 @@ p.readmore a {
     display: inline;
 }
 
+.maps .pleasanton {
+    visibility: hidden;
+}
+
 /* sidebar */
 
 #sidebar {
